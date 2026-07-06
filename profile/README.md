@@ -24,7 +24,7 @@ Java 8.
 | **[Axiom&nbsp;Odyssey](https://github.com/AxiomOdyssey/Axiom-Odyssey)** | Основной модпак Minecraft 1.7.10 (Forge + LWJGL3), запуск на Java 21–25 |
 | **[lwjgl3ify](https://github.com/AxiomOdyssey/lwjgl3ify)** | LWJGL3 + патчи под современную Java для 1.7.10 |
 | **[UniMixins](https://github.com/AxiomOdyssey/UniMixins)** | Единый Mixin-стек для 1.7.10 |
-| **AxiomLib** *(скоро)* | Собственная библиотечная основа для модов Axiom Odyssey |
+| **[AxiomLib](https://github.com/AxiomOdyssey/AxiomLib)** | Библиотечная основа для модов Axiom Odyssey (совр. экран выбора миров и др.) |
 
 ## 🧭 Принципы
 
